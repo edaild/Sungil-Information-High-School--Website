@@ -1,5 +1,5 @@
 # Sungil-Information-High-School-Portfolio
-Sungil-Information-High-School-Portfolio/ 성일정보고등학교 포토폴리어<br>
+Sungil-Information-High-School-Portfolio/ 성일정보고등학교 포토폴리오<br>
 The audio file is oversized and the music does not come in, so I left a YouTube link.<br>
 audio 파일은 파일용량 초가로 음악이 들어 오지 않아 유트뷰 링크를 남겼습니다.<br>
 #### link : https://youtu.be/sF6-dmulD_o
